@@ -1,12 +1,7 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:openaispeech/app_constants/constants.dart';
 import 'package:openaispeech/utils/size_config.dart';
-import 'package:openaispeech/view/screens/navbar_screens/home_screen.dart';
-import 'package:openaispeech/view/screens/navbar_screens/navbar.dart';
-import 'package:openaispeech/view/screens/navbar_screens/record_sound_screen.dart';
-import 'package:openaispeech/view/screens/navbar_screens/speech_to_text_screen.dart';
 import 'package:openaispeech/view/screens/navbar_screens/upload_file_s3.dart';
 
 class SplashScreen extends StatefulWidget {

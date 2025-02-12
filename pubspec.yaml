@@ -74,6 +74,7 @@ dependencies:
   audioplayers: ^1.0.1
   envied: ^0.3.0
   speech_to_text: ^6.1.1
+  chat_index_bar: ^1.0.7
   
   aws_s3_upload: ^1.5.0
 
